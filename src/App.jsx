@@ -1,4 +1,22 @@
-import './App.css'
+import c from "src/2110_character/img/c++.svg";
+import h from "src/2110_character/img/html.svg";
+import p from "src/2110_character/img/php.svg";
+import py from "src/2110_character/img/python.svg";
+import j from "src/2110_character/img/javascript.svg";
+import m from "src/2110_character/img/mysql.svg";
+import cs from "src/2110_character/img/csharp.svg";
+import r from "src/2110_character/img/react.svg";
+import l from "src/2110_character/img/laravel.svg";
+import g from "src/2110_character/img/git.svg";
+import css from "src/2110_character/img/css.svg";
+import jimmy from "src/2110_character/img/jimmy.jpg";
+import sidepic from "src/2110_character/img/sidepic.jpg";
+import laptop from "src/2110_character/img/laptop.png";
+import name from "src/2110_character/img/name.jpg";
+
+import "./2110_character/css/fontawesome.min.css";
+import "./2110_character/css/tooplate-style.css";
+
 
 function App() {
   return (
@@ -41,7 +59,7 @@ function App() {
             </ul>
           </div>
 
-          <img src="src/2110_character/img/laptop.png" alt="Image" className="tm-img-left" />
+          <img src={laptop} alt="Image" className="tm-img-left" />
         </div>
       </div>
       <div
@@ -61,7 +79,7 @@ function App() {
         </p>
       </div>
       <div className="item" data-desktop-seq-no={4} data-mobile-seq-no={8}>
-        <img src="src/2110_character/img/name.jpg" alt="Image" className="tm-img-left" />
+        <img src={name} alt="Image" className="tm-img-left" />
       </div>
       <div
         className="tm-footer"
@@ -87,7 +105,7 @@ function App() {
             <div className='sidecont'><h4>Contact: </h4> <h6>09309140671</h6></div>
             <div className='sidecont'><h4>Facebook: </h4> <h6><a href="https://www.facebook.com/jimmy.lumaad.3?mibextid=ZbWKwL">Jimmy Lumaad</a></h6></div>
           </div>
-          <img src="src/2110_character/img/jimmy.jpg" alt="Image" className="tm-img-left" />
+          <img src={jimmy} alt="Image" className="tm-img-left" />
         </div>
         
       </div>
@@ -116,21 +134,21 @@ function App() {
               <li>Basic Web Development</li>
               <li>Basic Web Design</li>
             </ul>
-          <img src="src/2110_character/img/c++.svg" className="svg" />
-          <img src="src/2110_character/img/html.svg" className="svg" />
-          <img src="src/2110_character/img/php.svg" className="svg" />
-          <img src="src/2110_character/img/python.svg" className="svg" />
-          <img src="src/2110_character/img/javascript.svg" className="svg" />
-          <img src="src/2110_character/img/mysql.svg" className="svg" />
-          <img src="src/2110_character/img/csharp.svg" className="svg" />
-          <img src="src/2110_character/img/react.svg" className="svg" />
-          <img src="src/2110_character/img/laravel.svg" className="svg" />
-          <img src="src/2110_character/img/git.svg" className="svg" />
-          <img src="src/2110_character/img/css.svg" className="svg" />
+          <img src={c} className="svg" />
+          <img src={h} className="svg" />
+          <img src={p} className="svg" />
+          <img src={py} className="svg" />
+          <img src={j} className="svg" />
+          <img src={m} className="svg" />
+          <img src={cs} className="svg" />
+          <img src={r} className="svg" />
+          <img src={l} className="svg" />
+          <img src={g} className="svg" />
+          <img src={css} className="svg" />
         </div>
       </div>
       <div className="item" data-desktop-seq-no={8} data-mobile-seq-no={6}>
-        <img src="src/2110_character/img/sidepic.jpg" alt="Image" style={{borderRadius: 45}}/>
+        <img src={sidepic} alt="Image" style={{borderRadius: 45}}/>
       </div>
       <div
         className="item tm-bg-white tm-block tm-form-section"
