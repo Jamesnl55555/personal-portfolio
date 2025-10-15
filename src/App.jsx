@@ -1,21 +1,18 @@
-import c from "src/2110_character/img/c++.svg";
-import h from "src/2110_character/img/html.svg";
-import p from "src/2110_character/img/php.svg";
-import py from "src/2110_character/img/python.svg";
-import j from "src/2110_character/img/javascript.svg";
-import m from "src/2110_character/img/mysql.svg";
-import cs from "src/2110_character/img/csharp.svg";
-import r from "src/2110_character/img/react.svg";
-import l from "src/2110_character/img/laravel.svg";
-import g from "src/2110_character/img/git.svg";
-import css from "src/2110_character/img/css.svg";
-import jimmy from "src/2110_character/img/jimmy.jpg";
-import sidepic from "src/2110_character/img/sidepic.jpg";
-import laptop from "src/2110_character/img/laptop.png";
-import name from "src/2110_character/img/name.jpg";
-
-import "./2110_character/css/fontawesome.min.css";
-import "./2110_character/css/tooplate-style.css";
+import c from "./2110_character/img/cp.svg";
+import h from "./2110_character/img/html.svg";
+import p from "./2110_character/img/php.svg";
+import py from "./2110_character/img/python.svg";
+import j from "./2110_character/img/javascript.svg";
+import m from "./2110_character/img/mysql.svg";
+import cs from "./2110_character/img/csharp.svg";
+import r from "./2110_character/img/react.svg";
+import l from "./2110_character/img/laravel.svg";
+import g from "./2110_character/img/git.svg";
+import css from "./2110_character/img/css.svg";
+import jimmy from "./2110_character/img/jimmy.jpg";
+import sidepic from "./2110_character/img/sidepic.jpg";
+import laptop from "./2110_character/img/laptop.png";
+import name from "./2110_character/img/name.jpg";
 
 
 function App() {
