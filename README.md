@@ -27,7 +27,7 @@ This portfolio consists of several key sections:
 * This section provides a quick way for potential employers to review my qualifications.
 
 **5. Contact Page**
-* A page allowing visitors to reach out to me via a contact form, email address, or through links to my professional social media profiles (e.g., LinkedIn, GitHub).
+* A page allowing visitors to reach out to me via email address, or through links to my professional social media profiles (e.g., LinkedIn, GitHub).
 * This ensures that anyone interested in connecting with me can do so easily.
 
 # Technologies Used
